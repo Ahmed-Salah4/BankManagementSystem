@@ -1,0 +1,3 @@
+﻿  Source2.cpp
+C:\Test\Project1\Project1\Source2.cpp(123,29): warning C4101: 'e': unreferenced local variable
+  Project1.vcxproj -> C:\Test\Project1\x64\Debug\Project1.exe
